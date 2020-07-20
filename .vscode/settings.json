@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": "apsfd",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "SHADO",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "shado"
+        }
+    ]
+}
